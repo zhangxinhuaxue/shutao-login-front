@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>失败@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="20.3775086%" y1="19.2039651%" x2="89.9433992%" y2="76.8335459%" id="linearGradient-1">
+            <stop stop-color="#FFABAB" offset="0%"></stop>
+            <stop stop-color="#F75757" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="45" cy="45" r="45"></circle>
+        <filter x="-28.9%" y="-24.4%" width="157.8%" height="157.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.743765783   0 0 0 0 0.743765783  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="注销失败-人脸对比失败" transform="translate(-305.000000, -216.000000)">
+            <g id="分组" transform="translate(64.000000, 216.000000)">
+                <g id="失败" transform="translate(241.000000, 0.000000)">
+                    <g id="Group-7" transform="translate(25.000000, 25.000000)">
+                        <g id="Oval-5">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M29.25,31.5 L61.875,59.625" id="Path-2" stroke="#FFFFFF" stroke-width="6.4" stroke-linecap="round"></path>
+                        <path d="M29.25,31.5 L61.875,59.625" id="Path-2" stroke="#FFFFFF" stroke-width="6.4" stroke-linecap="round" transform="translate(45.562500, 45.562500) scale(-1, 1) translate(-45.562500, -45.562500) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

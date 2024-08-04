@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>警告@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8677122%" y1="8.46985774%" x2="91.9921875%" y2="86.666278%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="70" cy="70" r="45"></circle>
+        <filter x="-28.9%" y="-24.4%" width="157.8%" height="157.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.989105017   0 0 0 0 0.833403387   0 0 0 0 0.733223268  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="账户注销" transform="translate(-305.000000, -196.000000)">
+            <g id="分组-3" transform="translate(0.000000, 176.000000)">
+                <g id="分组">
+                    <g id="警告" transform="translate(305.000000, 20.000000)">
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M79.7889092,52 L61,68.4917219" id="Path-2" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" transform="translate(70.394455, 60.245861) rotate(-48.000000) translate(-70.394455, -60.245861) "></path>
+                        <circle id="Oval-2" fill="#FFFFFF" cx="70" cy="86" r="5"></circle>
+                        <circle id="Oval-2" fill="#DE6913" opacity="0.430691964" cx="94.6666667" cy="96.3333333" r="1.33333333"></circle>
+                        <circle id="Oval-2" fill="#DE6913" opacity="0.430691964" cx="98.6666667" cy="96.3333333" r="1.33333333"></circle>
+                        <circle id="Oval-2" fill="#DE6913" opacity="0.430691964" cx="96" cy="100.333333" r="1.33333333"></circle>
+                        <circle id="Oval-2" fill="#DE6913" opacity="0.430691964" cx="92" cy="100.333333" r="1.33333333"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

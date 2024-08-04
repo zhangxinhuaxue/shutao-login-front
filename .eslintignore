@@ -1,0 +1,13 @@
+build/*.js
+dist/**/*.js
+config/*.js
+**/encrypt.js
+**/axdApp.js
+node_modules
+rem.vue
+**/libs/*.js
+**/exif.js
+**/qrcode.js
+**/echarts.js
+**/echarts.custom.min.js
+

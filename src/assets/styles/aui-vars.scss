@@ -1,0 +1,20 @@
+
+@import "@fe/aym-ui/src/styles/var.scss";
+
+:root {
+    --auiColorPrimary: #4286FF;
+    --auiColorSubmit: #4286FF;
+    --auiColorDisabled: #a6c2f5;
+    --auiLinkColorDefault: #4286FF;
+    --auiButtonTextColor: #ffffff;
+    --auiButtonRadiusLarge: 0.08rem;
+    --auiTipsColor: #4286FF;
+}
+body.aym {
+    --auiColorPrimary: #ffe24d;
+    --auiColorSubmit: #FFBF2F;
+    --auiColorDisabled: #FFDE96;
+    --auiButtonTextColor: #474747;
+    --auiButtonRadiusLarge: 0.94rem;
+    --auiTipsColor: #F99E00;
+}
